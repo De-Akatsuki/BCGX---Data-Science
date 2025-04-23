@@ -29,11 +29,7 @@ The client is facing challenges in understanding and leveraging their customer d
 
 ```
 📂 BCG-X-Forage-Assignment/
-├── 📜 README.md
-├── 📜 Final_Report.pdf (if applicable)
-├── 📓 BCG_X_Assignment.ipynb
-├── 📁 data/
-│   └── raw_data.csv
+├── 
 ```
 
 ## 🔍 Key Insights
